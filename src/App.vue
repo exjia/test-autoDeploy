@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="test git自动化部署"/>
+    <HelloWorld msg="change test git自动化部署"/>
   </div>
 </template>
 
